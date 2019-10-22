@@ -1,2 +1,3 @@
-# kaggle-nlp
-Exercise to process and predict using Kaggle movie reviews data
+# Kaggle NLP
+
+Processing movie review data from Kaggle in a different manner
